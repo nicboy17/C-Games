@@ -1,0 +1,2 @@
+player1: 8-4
+player2: 1-0
